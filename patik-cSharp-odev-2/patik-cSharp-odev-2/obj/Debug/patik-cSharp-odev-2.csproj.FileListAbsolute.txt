@@ -1,0 +1,8 @@
+D:\Unity Proje\patika-cSharp\patika-cSharp-odev-2\patik-cSharp-odev-2\patik-cSharp-odev-2\bin\Debug\patik-cSharp-odev-2.exe.config
+D:\Unity Proje\patika-cSharp\patika-cSharp-odev-2\patik-cSharp-odev-2\patik-cSharp-odev-2\bin\Debug\patik-cSharp-odev-2.exe
+D:\Unity Proje\patika-cSharp\patika-cSharp-odev-2\patik-cSharp-odev-2\patik-cSharp-odev-2\bin\Debug\patik-cSharp-odev-2.pdb
+D:\Unity Proje\patika-cSharp\patika-cSharp-odev-2\patik-cSharp-odev-2\patik-cSharp-odev-2\obj\Debug\patik-cSharp-odev-2.csproj.AssemblyReference.cache
+D:\Unity Proje\patika-cSharp\patika-cSharp-odev-2\patik-cSharp-odev-2\patik-cSharp-odev-2\obj\Debug\patik-cSharp-odev-2.csproj.SuggestedBindingRedirects.cache
+D:\Unity Proje\patika-cSharp\patika-cSharp-odev-2\patik-cSharp-odev-2\patik-cSharp-odev-2\obj\Debug\patik-cSharp-odev-2.csproj.CoreCompileInputs.cache
+D:\Unity Proje\patika-cSharp\patika-cSharp-odev-2\patik-cSharp-odev-2\patik-cSharp-odev-2\obj\Debug\patik-cSharp-odev-2.exe
+D:\Unity Proje\patika-cSharp\patika-cSharp-odev-2\patik-cSharp-odev-2\patik-cSharp-odev-2\obj\Debug\patik-cSharp-odev-2.pdb
